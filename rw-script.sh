@@ -12,3 +12,5 @@ sudo useradd Rita
 sudo groupadd Kenya-devops
 sudo groupadd Uganda-devops
 sudo groupadd US-devops
+git pull
+git rebase
